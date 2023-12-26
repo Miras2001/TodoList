@@ -1,0 +1,17 @@
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\bin\Debug\net6.0-windows\TodoList.exe
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\bin\Debug\net6.0-windows\TodoList.deps.json
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\bin\Debug\net6.0-windows\TodoList.runtimeconfig.json
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\bin\Debug\net6.0-windows\TodoList.dll
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\bin\Debug\net6.0-windows\TodoList.pdb
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.AssemblyReference.cache
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.Form1.resources
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.GenerateResource.cache
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfoInputs.cache
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.AssemblyInfo.cs
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.dll
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\refint\TodoList.dll
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.pdb
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\TodoList.genruntimeconfig.cache
+C:\Users\miras\OneDrive\Рабочий стол\TodoList\TodoList\obj\Debug\net6.0-windows\ref\TodoList.dll
